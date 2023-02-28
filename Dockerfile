@@ -20,4 +20,8 @@ ENV PATH="/root/.cargo/bin:${PATH}"
 # Set the working directory 
 WORKDIR /home/Infinite-Storage-Glitch
 
+# Set cargo home to a folder in the working directory this will make rebuild 
+# faster as it allows the cargo cache to be saved between docker runs. 
+ENV CARGO_HOME=/home/Infinite-Storage-Glitch/cargo_home
+
 CMD ["/bin/bash"]
