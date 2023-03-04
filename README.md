@@ -92,8 +92,6 @@ Both of these modes can be corrupted by compression, so we need to increase the 
 To make it easier on the user, we also include all the relevant settings used to create the video on the first frame of the video. This allows the program to know what mode the video is in and what size to use in order to avoid making the user remember.
 
 # Final comments
-I will come back to this project a bit later after I work on something else
-
 I appreciate any and all roasting of the code so I can improve.
 
 Do what you want with the code, but credit would be much appreciated and if you have any trouble with ISG, please contact me over discord.
