@@ -10,8 +10,6 @@ AKA ISG (written entirely in Rust my beloved) lets you embed files into video an
 
 This has been quite heavily inspired by suckerpinch's [Harder Drive](https://www.youtube.com/watch?v=JcJSW7Rprio) video and [discord as a filesystem](https://github.com/pixelomer/discord-fs). Unfortunately no filesystem functionality as of right now.
 
-If you are having trouble with the program please dm me.
-
 # Now, you might be asking yourself:
 
 <details>
